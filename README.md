@@ -51,7 +51,7 @@ Follow these steps to set up and run the demo project:
 
    - **For All Operating Systems:**
      ```shell
-     cd ..
+     cd ../..
      cmake -S . -B build/ -D CMAKE_BUILD_TYPE="Release"
      cmake --build build/
      ```
