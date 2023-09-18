@@ -42,7 +42,7 @@ Follow these steps to set up and run the demo project:
      If you are on Linux or macOS, you can use the provided `build.sh` script. Run the script with the `-h` flag to view all available build options:
 
      ```shell
-     ./build.sh -h
+     ./build.sh 
      ```
 
 5. **Build the Demo Project:**
