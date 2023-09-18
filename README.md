@@ -61,7 +61,7 @@ Follow these steps to set up and run the demo project:
    Execute the demo project in the `html-parser-demo-c` folder with the following command:
 
    ```shell
-   build/html-parser-demo-Release
+   build/html-parser-demo-c-demo-Release
 
 
 ## Feedback & Assistance
